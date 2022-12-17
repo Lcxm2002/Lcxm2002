@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-ximenes-melchior/)
 
 ![Luca GitHub stats](https://github-readme-stats.vercel.app/api?username=Lcxm2002&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lcxm2002&layout=compact)](https://github.com/Lcxm2002/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lcxm2002&layout=compact&langs_count=7&theme=dracula)](https://github.com/Lcxm2002/github-readme-stats)
 ## Habilidades
 
 <div style="display: incline_block"><br/>
