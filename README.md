@@ -7,7 +7,7 @@
 
 ![Luca GitHub stats](https://github-readme-stats.vercel.app/api?username=Lcxm2002&show_icons=true&theme=dracula)
 
-## Skills
+## Habilidades
 
 <div style="display: incline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
