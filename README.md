@@ -27,3 +27,5 @@
 
 
 ### Estudo Ciência da Computação, tenho formação em TI, apaixonado em aprender sobre tecnologia!
+
+![snake gif](https://github.com/Lcxm2002/Lcxm2002/blob/output/github-contribution-grid-snake.svg)
