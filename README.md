@@ -1,4 +1,4 @@
-### Olá! Eu sou Luca Ximenes, seja bem vindo! 🚀💡💻
+## Olá! Eu sou Luca Ximenes, seja bem vindo! 🚀💡💻
 ### lucaxmelchior@gmail.com
 [![Contato](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lcxm2002)
@@ -7,7 +7,7 @@
 
 ![Luca GitHub stats](https://github-readme-stats.vercel.app/api?username=Lcxm2002&show_icons=true&theme=dracula)
 
-## Habilidades
+## Skills
 
 <div style="display: incline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -21,7 +21,10 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</div><br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-</div>
+### Estudo Ciência da Computação, tenho formação em TI, apaixonado em aprender sobre tecnologia!
