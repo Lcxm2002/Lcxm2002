@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/luca-ximenes-melchior/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.instagram.com/x_melchior/?next=%2F" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 </p>
-<img align="right" alt="Coding" width="400" src="C:\Users\PMC\Desktop\tenor.gif">
+[![MasterHead](your image link)](https://github.com/Lcxm2002)
 
 ## Habilidades
 
