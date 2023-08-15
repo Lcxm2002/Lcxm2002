@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://github.com/Lcxm2002">
-    <img align="center" src=".github/workflows/Welcome.gif" "width="200">
+    <img align="center" src=".github/workflows/Welcome.gif" "width="400">
   </a>
 </div>
 <br>
