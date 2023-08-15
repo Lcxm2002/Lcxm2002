@@ -54,6 +54,7 @@ Sou formado em <b>Ciência da Computação</b> pela Unip (2023) e atualmente atu
     </tr>
   </table>
 </div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lcxm2002&layout=donut)](https://github.com/Lcxm2002/github-readme-stats)
 
 
