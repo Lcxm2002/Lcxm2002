@@ -10,8 +10,9 @@
 <a href="https://www.instagram.com/x_melchior/?next=%2F" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lcxm2002)](https://github.com/Lcxm2002/github-readme-stats)
+
 [![Lcxm2002 GitHub stats](https://github-readme-stats.vercel.app/api?username=Lcxm2002)](https://github.com/Lcxm2002/github-readme-stats)
-<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
 
 
