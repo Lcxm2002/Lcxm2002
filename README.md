@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/Lcxm2002">
-    <img align="center" src="welcome.png" width="500">
+    <img align="center" src=".github/workflows/welcome.png" width="500">
   </a>
 </div>
 <br>
