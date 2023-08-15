@@ -1,7 +1,13 @@
 ## Olá! Eu sou Luca Ximenes, seja bem vindo! 🚀💡💻
 ### lucaxmelchior@gmail.com
-<img align="center" src="Welcome.png" width="500">
 
+<img align="right" src="https://komarev.com/ghpvc/?username=andreinaoliveira&color=ff69b4"><br>
+<div align="center">
+  <a href="https://github.com/andreinaoliveira">
+    <img align="center" src="Welcome.png" width="500">
+  </a>
+</div>
+<br>
 
 [![Contato](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lcxm2002)
