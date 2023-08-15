@@ -11,6 +11,8 @@
 </p>
 
 [![Lcxm2002 GitHub stats](https://github-readme-stats.vercel.app/api?username=Lcxm2002)](https://github.com/Lcxm2002/github-readme-stats)
+<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+
 
 
 
