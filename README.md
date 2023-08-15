@@ -10,7 +10,7 @@
 <a href="https://www.instagram.com/x_melchior/?next=%2F" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lcxm2002&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lcxm2002&layout=donut)](https://github.com/Lcxm2002/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lcxm2002&show_icons=true&theme=neon)
 
 
