@@ -52,8 +52,8 @@ Sou formado em <b>Ciência da Computação</b> pela Unip (2023) e atualmente atu
       <td><b>👨‍💻 Analista de sistema</b></td>
     </tr>
     <tr>
-      <td><img src="https://apilgriminnarnia.files.wordpress.com/2018/09/legally-blonde-laptop-e1536078931635.jpg" width="300px" height="170px"></td>
-      <td><img src="https://reactiongifs.me/wp-content/uploads/2019/05/Testers-Vs-Developers.gif" width="300px" height="170px"> </td>
+      <td><img src="https://gifs.eco.br/wp-content/uploads/2022/09/gifs-de-estudo-1.gif" width="300px" height="170px"></td>
+      <td><img src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" width="300px" height="170px"> </td>
     </tr>
   </table>
 </div>
