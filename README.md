@@ -19,9 +19,6 @@
 <a href="https://www.instagram.com/x_melchior/?next=%2F" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lcxm2002&layout=donut)](https://github.com/Lcxm2002/github-readme-stats)
-
-
 ## Skills
 
 <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="40" height="40" style="max-width:100%;"></img>
@@ -57,4 +54,6 @@ Sou formado em <b>Ciência da Computação</b> pela Unip (2023) e atualmente atu
     </tr>
   </table>
 </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lcxm2002&layout=donut)](https://github.com/Lcxm2002/github-readme-stats)
+
 
