@@ -12,6 +12,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lcxm2002&layout=compact)
 [![Lcxm2002 GitHub stats](https://github-readme-stats.vercel.app/api?username=Lcxm2002)](https://github.com/Lcxm2002/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lcxm2002&show_icons=true&theme=transparent)
 
 
 
