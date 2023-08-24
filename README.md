@@ -13,13 +13,13 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lcxm2002)
 [![MasterHead](tenor.gif)](https://github.com/Lcxm2002)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me 🌐:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/luca-ximenes-melchior/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" alt="" height="40" width="40" /></a>
 <a href="https://www.instagram.com/x_melchior/?next=%2F" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491580635-yumminkysocialmedia26_83102.png" alt="" height="40" width="40" /></a>
 </p>
 
-## Skills
+## 📚 Skills
 
 <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="github" width="40" height="40" style="max-width:100%;"></img>
