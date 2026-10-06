@@ -41,7 +41,7 @@
   <b>"A tecnologia move o mundo" - Steve Jobs</b>
 </div><br>
 
-Sou formado em <b>Ciência da Computação</b> pela Unip (2023) e atualmente atuo no cargo <b>Analista de sistemas</b> na Prefeitura Municipal de Campinas. Gosto de trabalhar com tecnologia e ando ampliando meu conhecimento em Desenvolvimento Tecnológico.
+Sou formado em <b>Ciência da Computação</b> pela Unip (2023). Gosto de trabalhar com tecnologia e ando ampliando meu conhecimento em Desenvolvimento Tecnológico.
 <br><br>
 
 <div align="center">
